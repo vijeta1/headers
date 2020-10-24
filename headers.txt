@@ -1,0 +1,11 @@
+Contact: root@9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+Client-IP: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+X-Client-IP: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+Forwarded: for=spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net;by=spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net;host=spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+True-Client-IP: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+CF-Connecting_IP: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+X-Wap-Profile: http://9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net/wap.xml
+X-Real-IP: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+X-Originating-IP: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+From: root@9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
+X-Forwarded-For: spoofed.9w6qw38ohk34xsjhxp6og6n1eski87.burpcollaborator.net
